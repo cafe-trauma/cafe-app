@@ -24,7 +24,7 @@
     "@angular/platform-server": "^6.1.9",
     "@angular/router": "^6.1.9",
     "angulartics2": "^2.4.0",
-    "bootstrap": "4.1.2",
+    "bootstrap": "4.3.1",
     "core-js": "^2.4.1",
     "jquery": "^3.1.1",
     "rxjs": "^6.3.3",
